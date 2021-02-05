@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "drawnApart",
+  "version": "1.0.0",
+  "version_name": "1.0.0",
+  "author": "",
+  "description": "__MSG_description__",
+  "offline_enabled": false,
+  "permissions": [
+    "storage"
+  ],
+  "background": {
+    "page": "background.html"
+  },
+  "content_security_policy": "script-src 'self'; object-src 'self'"
+}
+
