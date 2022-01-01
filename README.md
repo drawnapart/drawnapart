@@ -1,6 +1,6 @@
 # Drawn Apart
 
-Artifact for NDSS submission #93 "DRAWN APART : A Device Identification Technique based on Remote GPU Fingerprinting"
+Artifacts for "DRAWN APART : A Device Identification Technique based on Remote GPU Fingerprinting", by Tomer Laor, Naif Mehanna, Vitaly Dyadyuk, Antonin Durey, Pierre Laperdrix, Clémentine Maurice, Yossi Oren, Romain Rouvoy, Walter Rudametkin, and Yuval Yarom
 
 ## Demo pages
 
@@ -31,5 +31,6 @@ To assess the robustness of our Drawn Apart method, we filmed two experiments wh
 * [**HDD swapping demo**](https://drive.google.com/file/d/1MtRrCQ3lHW4ferMXqLRlAPcfNr2j5or-/view) 
 * [**CPU swapping demo**](https://drive.google.com/file/d/1dq_Bj4tG2fuWROLR9Uj9PPj9kBijEuWk/view)
 
-
+## For More Information
+Please see the [paper's official webpage](https://orenlab.sise.bgu.ac.il/p/DrawnApart?repo)
 
